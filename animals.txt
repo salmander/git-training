@@ -2,3 +2,5 @@ cat
 cow
 dog
 rabbit
+snake
+zebra
