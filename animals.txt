@@ -3,5 +3,6 @@ cow
 dog
 pig
 rabbit
+rat
 snake
 zebra
