@@ -1,6 +1,7 @@
 cat
 cow
 dog
+pig
 rabbit
 snake
 zebra
