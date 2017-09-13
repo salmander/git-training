@@ -4,3 +4,5 @@ dog
 rabbit
 snake
 zebra
+lion
+tiger
